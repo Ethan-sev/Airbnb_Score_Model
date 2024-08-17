@@ -24,12 +24,10 @@ from sklearn.metrics import accuracy_score, classification_report
 from keras.models import Sequential
 from keras.layers import Dense
 import matplotlib.pyplot as plt
-import seaborn as sns
+import seaborn as snS
+```
 
-Here’s how you can format the Summary section:
 
-markdown
-Copy code
 ## Summary
 
 In this project, we successfully predicted Airbnb review scores by applying various machine learning techniques, including neural networks. By categorizing review scores into four distinct groups, we managed to address the challenges posed by an unbalanced dataset. The use of neural networks allowed us to weight each category differently, improving the model's ability to predict lower review scores, though it did come with trade-offs.
