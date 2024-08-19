@@ -33,4 +33,5 @@ import seaborn as snS
 In this project, we successfully predicted Airbnb review scores by applying various machine learning techniques, including neural networks. By categorizing review scores into four distinct groups, we managed to address the challenges posed by an unbalanced dataset. The use of neural networks allowed us to weight each category differently, improving the model's ability to predict lower review scores, though it did come with trade-offs.
 
 While our approach yielded good accuracy, we identified potential areas for further improvement. Future work could explore alternative models, such as traditional regression, using the original data format for the target variable. Overall, this project serves as a strong foundation for predicting review scores and offers insights into handling unbalanced datasets in machine learning.
+##Contributers
 This project was done by Ethan Severance, Chris Canala, and Rachel Bernz
